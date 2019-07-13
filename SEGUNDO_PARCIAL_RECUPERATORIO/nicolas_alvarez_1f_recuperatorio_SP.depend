@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1562850202 source:c:\users\alumno\desktop\practicando\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1561304470 c:\users\alumno\desktop\practicando\imput.h
+
+1562856780 source:c:\users\alumno\desktop\practicando\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562856440 c:\users\alumno\desktop\practicando\linkedlist.h
+
+1562882254 source:c:\users\alumno\desktop\practicando\llamada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"llamada.h"
+
+1562882473 c:\users\alumno\desktop\practicando\llamada.h
+
+1562882398 source:c:\users\alumno\desktop\practicando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"llamada.h"
+	"imput.h"
+
+1562850202 source:d:\practicando\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1561304470 d:\practicando\imput.h
+
+1562885368 source:d:\practicando\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562885360 d:\practicando\linkedlist.h
+
+1562887707 source:d:\practicando\llamada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"llamada.h"
+	"imput.h"
+
+1562888146 d:\practicando\llamada.h
+
+1562887927 source:d:\practicando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"llamada.h"
+	"imput.h"
+
